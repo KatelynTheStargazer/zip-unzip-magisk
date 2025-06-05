@@ -1,0 +1,6 @@
+id=zip-unzip
+name=zip and unzip binary for magisk
+version=1.0
+versionCode=1
+author=Adalyn
+description=Installs static zip and unzip binaries to /system/bin
